@@ -2,7 +2,6 @@
 
 
 ### Este projeto NÃO inclui
-Abaixo uma lista de recursos que não adicionei ainda e que você pode me ajudar a adicionar.
 
 - Combinações de variações de produto (tem apenas uma variação)
 - Cupons de desconto no carrinho de compras
@@ -10,7 +9,6 @@ Abaixo uma lista de recursos que não adicionei ainda e que você pode me ajudar
 - Métodos de pagamento (MercadoPago, PayPal, PagSeguro, enfim...)
 
 ### Inclui:
-Abaixo uma lista do que adicionei...
 
 - [x] Model produtos
 - [x] Model variações
